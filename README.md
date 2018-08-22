@@ -1,6 +1,7 @@
 # Poll-App-in-Django
 
-# Basic Info
-<p> A web application backed up by Django. </p>
+## Basic Info
 
-<h1> Development Stage. </h1>
+**A web application backed up by Django.**
+
+
